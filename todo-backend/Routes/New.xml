@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch version="4.4.2" xmlns="http://www.crossref.org/schema/4.4.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1" xsi:schemaLocation="http://www.crossref.org/schema/4.4.2 http://www.crossref.org/schema/deposit/crossref4.4.2.xsd">
+<head>
+<doi_batch_id>3d8d135818d1675848a4ddb</doi_batch_id>
+<timestamp>20240522084944574</timestamp>
+<depositor>
+  <depositor_name>doogle.apps@gmail.com:nspa</depositor_name> 
+  <email_address>adarshtrivedi277@gmail.com</email_address>
+</depositor>
+<registrant>WEB-FORM</registrant> 
+</head>
+<body>
+<journal>
+<journal_metadata>   <full_title>INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT</full_title>   <abbrev_title>IJSREM</abbrev_title>   <issn media_type='electronic'>25823930</issn>   <doi_data>     <doi>10.55041/IJSREM</doi>     <resource>https://ijsrem.com/past-issues/</resource>   </doi_data> </journal_metadata> <journal_issue>  <publication_date media_type='online'>     <month>05</month>     <day>22</day>     <year>2024</year>   </publication_date>   <journal_volume>     <volume>08</volume>   </journal_volume>   <issue>05</issue>   <doi_data>     <doi>10.55041/IJSREM2024</doi>     <resource>https://ijsrem.com/volume08issue05may2024/</resource>   </doi_data> </journal_issue><!-- ============== --> <journal_article publication_type='full_text'>   <titles>     <title>Track Maven</title>   </titles>   <contributors>      <organization sequence='first' contributor_role='author'>Computer Science &amp; Engineering Acropolis Institute of Technology  &amp; Research Indore, India</organization>    <person_name sequence='first' contributor_role='author'>      <given_name>Adarsh</given_name>      <surname>Trivedi</surname>    </person_name>  </contributors>    <jats:abstract xml:lang='en'>         <jats:p>Track Maven is a web application designed to streamline task management processes within organizations. Track Maven aims to provide a centralized platform for managing tasks, enabling efficient task assignment, monitoring, and tracking. The dashboard offers a user-friendly interface for creating, updating, and deleting tasks, as well as assigning tasks to specific teams or individuals. It also includes features for monitoring task completion status and generating reports to track team performance. The project utilizes React for the frontend interface, Node.js and Express.js for the backend server, and MongoDB as the database. The application is secured using JWT authentication, ensuring that only authorized users can access and modify task-related information. Additionally, the dashboard includes data visualization features to provide managers with insights into team productivity and task completion rates.     Keywords— Task Management, Dashboard, Task Tracking, Data Visualization, JWT Authentication.</jats:p>     </jats:abstract>  <publication_date media_type='online'>     <month>05</month>     <day>22</day>     <year>2024</year>   </publication_date>   <pages>     <first_page>1</first_page>     <last_page>5</last_page>   </pages>   <doi_data>     <doi>10.55041/IJSREM34493</doi>     <resource>https://ijsrem.com/download/track-maven/</resource>   </doi_data> </journal_article>
+</journal>
+</body>
+</doi_batch>
